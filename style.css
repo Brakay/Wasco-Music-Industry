@@ -1,0 +1,61 @@
+.blue-color{
+    color:#8845f4;
+}
+
+body { 
+    font-family:sans-serif;
+    color:#777777
+    line-height: 26px;
+}
+
+.half-width{
+    width:50%
+    float:left;
+}
+
+.side-img{
+    width: 50%!
+    padding: 25%
+}
+
+<div class="half-width">
+    <ima class="side-img"src="images/profile.png"alt="">
+</div>
+
+.primary.btn{
+    color: white;
+    background-color:#8845f5;
+    padding: 13px 42px;
+    border-radius: 20px;
+}
+
+<a class="primary-btn"href="www.linkedin.com/in/jhankar/">Hire Me </a>
+
+.primary-btn{
+    color: white;
+    background-color:#8845f4;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+h1 { 
+    font-size: 2.5em;
+}
+
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+
+.experiences{
+    pandding: 30px;
+    margin: 30px;
+    bacgroung-color: rgb( 238,251,255 );
+    border-radius:20px;
+}
+      
+.experience-item{
+     padding: 10px;
+     border-left: 1px sold rgha(137,130,247, .2);
+     }
